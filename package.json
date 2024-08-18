@@ -1,0 +1,21 @@
+{
+  "name": "learn-starter",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@next/bundle-analyzer": "^14.2.5",
+    "@stream-io/stream-chat-css": "*",
+    "next": "^14.2.5",
+    "react": "*",
+    "react-app-polyfill": "^1.0.2",
+    "react-dom": "*",
+    "react-scripts": "2.1.4",
+    "stream-chat": "*",
+    "stream-chat-react": "*"
+  }
+}
